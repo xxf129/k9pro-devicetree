@@ -8,7 +8,7 @@
 DEVICE_PATH := device/oplus/ossi
 
 TW_MAX_BRIGHTNESS := 255
-TW_DEFAULT_BRIGHTNESS := 155
+TW_DEFAULT_BRIGHTNESS := 20
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
